@@ -1,2 +1,4 @@
 - Tools spam SMS menggunakan python
 - Bisa di modifikasi sendiri
+- Bisa digunakan di Termux Android
+- Gunakan tools ini dengan bijak
